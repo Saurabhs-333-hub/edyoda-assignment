@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/edyoda-assignment/static/css/main.428ed969.css",
+    "main.js": "/edyoda-assignment/static/js/main.5cd71b57.js",
+    "static/js/787.5063ad48.chunk.js": "/edyoda-assignment/static/js/787.5063ad48.chunk.js",
+    "static/media/BackGround.svg": "/edyoda-assignment/static/media/BackGround.6409f74e8672aaed6d34.svg",
+    "static/media/Stage 2.svg": "/edyoda-assignment/static/media/Stage 2.e25808c24cbe4a7e53aa31ac4de83405.svg",
+    "static/media/Stage 1.svg": "/edyoda-assignment/static/media/Stage 1.1ff213a7d83012ce064c5556cdbca793.svg",
+    "static/media/razorpay.svg": "/edyoda-assignment/static/media/razorpay.a47e25bdd8473e6787b85cb3df3680cc.svg",
+    "static/media/book.svg": "/edyoda-assignment/static/media/book.0bb69312f59b41f1f3f760b53776e0ca.svg",
+    "static/media/live.svg": "/edyoda-assignment/static/media/live.96df9e51836952aedc74b69443d3922e.svg",
+    "static/media/ads.svg": "/edyoda-assignment/static/media/ads.04c93b97aef9430b82d8c8d9d2e42f94.svg",
+    "static/media/LOGO.svg": "/edyoda-assignment/static/media/LOGO.1b87649ebf28ae4d7887a094edb859b0.svg",
+    "static/media/hat.svg": "/edyoda-assignment/static/media/hat.0728a78c688bf1f092449c19307bf017.svg",
+    "static/media/defaultradio.svg": "/edyoda-assignment/static/media/defaultradio.087ff783cef0eb3aea2c25982fa79cda.svg",
+    "static/media/onlycircleradiobutton.svg": "/edyoda-assignment/static/media/onlycircleradiobutton.815148655debfb88be57df4685e2bed5.svg",
+    "static/media/greenradiobutton.svg": "/edyoda-assignment/static/media/greenradiobutton.69b8c8cf60eafadca39c2fd78cc21887.svg",
+    "static/media/timer.svg": "/edyoda-assignment/static/media/timer.91ec86fffb6ec9ed7bb48bd9435dfe08.svg",
+    "static/media/search.svg": "/edyoda-assignment/static/media/search.616cb057edd34fd1cb7c8d8af507f3b7.svg",
+    "index.html": "/edyoda-assignment/index.html",
+    "static/media/iconclock.svg": "/edyoda-assignment/static/media/iconclock.5d6adf0cfbd2ebbf7e486ea5d883f312.svg",
+    "static/media/dropdown.svg": "/edyoda-assignment/static/media/dropdown.f315a32bda91452104f9be5f22ed92a5.svg",
+    "main.428ed969.css.map": "/edyoda-assignment/static/css/main.428ed969.css.map",
+    "main.5cd71b57.js.map": "/edyoda-assignment/static/js/main.5cd71b57.js.map",
+    "787.5063ad48.chunk.js.map": "/edyoda-assignment/static/js/787.5063ad48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.428ed969.css",
+    "static/js/main.5cd71b57.js"
+  ]
+}
